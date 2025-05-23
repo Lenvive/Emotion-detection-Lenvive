@@ -1,2 +1,5 @@
 /src/data
+/src/data_partical
+
 /tmp
+__pycache__
